@@ -1,0 +1,9 @@
+Left-Weight,Left-Distance,Right-Weight,Right-Distance,Class
+4,4,5,3,NotL
+2,2,1,3,NotL
+3,2,1,4,NotL
+2,3,1,5,NotL
+3,4,2,5,NotL
+4,2,5,1,NotL
+3,2,1,5,NotL
+4,3,5,2,NotL

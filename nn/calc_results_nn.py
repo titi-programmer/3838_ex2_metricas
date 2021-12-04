@@ -122,9 +122,9 @@ RESULT_DATA_PATH = './data/results/{}/result{}.csv'
 prediction_threshold = 0.2 # 0.5 para cobrir todo o dataset
 _path_codes = [
   # 'test_8hidden_0.1rate',
-  # 'test_4hidden_0.1rate',
+  'test_4hidden_0.1rate',
   # 'test_2hidden_0.1rate',
-  'test_9hidden_0.1rate'
+  # 'test_9hidden_0.1rate'
   ]
 
 for _path_code in _path_codes:
